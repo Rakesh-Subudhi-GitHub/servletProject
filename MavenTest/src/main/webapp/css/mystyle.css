@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+body{
+	background-color: #e2e2e2;
+}
+
+.navbar{
+	background: #ba68c8 !important;
+}
+
+.intro{
+	background-color: #ce93d8;
+	color: white;
+}
+
+.login{
+	background-color:  #ce93d8;
+}
+
+.loginheader{
+	background-color: #ce93d8;
+	text-align: center;
+	color: white;
+}
+.register{
+	background-color:  #ce93d8;
+	padding: 5px;
+	padding-bottom: 80px;
+}
+
+
